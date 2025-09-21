@@ -3,6 +3,8 @@
         "*.dbclient-js": "javascript",
         "algorithm": "cpp",
         "xutility": "cpp",
-        "vector": "cpp"
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp"
     }
 }
